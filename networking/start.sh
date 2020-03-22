@@ -50,5 +50,3 @@ DBUS_SYSTEM_BUS_ADDRESS=unix:path=/host/run/dbus/system_bus_socket \
   /uk/org/thekelleys/dnsmasq  \
   uk.org.thekelleys.SetServers \
   uint32:$ip_one uint32:$ip_two
-
-echo "DNS servers set"
