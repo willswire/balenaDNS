@@ -14,7 +14,9 @@ Add/merge the `docker-compose.yml` file, and the `networking` folder to your mul
 
 This project can also run on its own, if you would like to use it for testing purposes. After cloning, push it to your application of choice via the [balena-cli](https://github.com/balena-io/balena-cli/blob/master/INSTALL.md):
 
-`balena push myApplication`
+```bash
+balena push myApplication`
+```
 
 ## Usage
 
