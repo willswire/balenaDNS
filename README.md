@@ -25,7 +25,7 @@ After installation, you will need to set the environment variables at either the
 | `DNS_1` | `1.1.1.1` _[the primary ip address of your preferred DNS server]_ |
 | `DNS_2` | `1.0.0.1` _[the secondary ip address of your preferred DNS server]_ |
 
-![screenshot](/Users/willwalker/WSD/balena-dns/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Contributing
 
