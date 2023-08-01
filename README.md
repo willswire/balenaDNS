@@ -7,7 +7,7 @@ Although you can set your own custom DNS servers on balenaCloud devices, it is [
 Clone this repository to your local workspace:
 
 ```bash
-git clone https://github.com/willswire/balena-dns.git
+git clone https://github.com/willswire/balenaDNS.git
 ```
 
 Add/merge the `docker-compose.yml` file and the `networking` folder to your multicontainer setup. If you aren't using a multicontainer setup, but would like to add this container, see Balena's [documentation](https://www.balena.io/docs/learn/develop/multicontainer/) for more information.
