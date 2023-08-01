@@ -1,4 +1,4 @@
-# balena-dns
+# balenaDNS
 
 Although you can set your own custom DNS servers on balenaCloud devices, it is [only](https://www.balena.io/docs/reference/OS/network/2.x/#setting-a-static-ip) when flashing a device (or when you have physical access to said device). In many cases (including my own), this is too much trouble when you have a fleet of 50+ devices that would otherwise require physical access. Rather than having to touch each device inside your application, I offer to you a solution where you can: **set custom DNS servers (for the HostOS, and subsequently all containers) on balena devices during runtime (after provisioning)**.  All it takes is a quick clone of this repo, setting some environment variables, and you're good to go. 
 
